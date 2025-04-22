@@ -1,2 +1,2 @@
 # webscraping
-Webscraping in Python
+Course contents of Webscraping in Python
